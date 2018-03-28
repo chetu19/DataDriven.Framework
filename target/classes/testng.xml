@@ -1,0 +1,26 @@
+<suite name="SuiteName">
+	
+	
+	<test name="TestA" allow-return-values="true">
+		<classes>
+			<class name="DataDriven.DataDriven_FW.DummyTestA" />
+		</classes>
+	</test>
+	
+	<test name="TestB" allow-return-values="true">
+		<classes>
+			<class name="DataDriven.DataDriven_FW.DummyTestB" />
+		</classes>
+	</test>
+	
+	<test name="TestC" allow-return-values="true">
+		<classes>
+			<class name="DataDriven.DataDriven_FW.DummyTestC" />
+		</classes>
+	</test>
+	
+	
+	
+	
+</suite>
+
